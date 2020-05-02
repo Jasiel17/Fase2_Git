@@ -1,2 +1,2 @@
-Terminamos de corregir el error que habia en el pedido de las hamburguesas
-Perteneciente al RELEASE 1
+Se soluciono el FIXED de la caracteristica 5 del release 2
+Aun asi no se completaron las caracteristicas para terminar release 2
