@@ -1,0 +1,69 @@
+commit de87358057b27d3f718e55912bfa79a6c55c668b
+Merge: 7f186ee cc31e43
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:10:06 2020 -0400
+
+    Merge branch 'carac5r1' into develop
+
+commit cc31e434a310c208d2aa7317fdcd32e58bd873a4
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:09:19 2020 -0400
+
+    caracteristica 5 - R 1
+
+commit 7f186eec35f7d4a6ad4862059381d45e5a6f4ef6
+Merge: a8777f0 c1fe86d
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:06:22 2020 -0400
+
+    Merge branch 'carac4r1' into develop
+
+commit c1fe86db879a69f592ff2e693d6ac7d9985be2eb
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:05:58 2020 -0400
+
+    caracteristica 4 - R 1
+
+commit a8777f00cfb15f1fc0aa58ec17dc5af734cf38eb
+Merge: d5ddafd 7807464
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:04:04 2020 -0400
+
+    Merge branch 'carac3r1' into develop
+
+commit 7807464b9d0b76aa34dc7f97db2843d11b13b8e1
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:02:55 2020 -0400
+
+    caracteristica 3 - R 1
+
+commit d5ddafd66e12b7d9d7b737261c5374a9910ee96c
+Merge: 44b1cee 2d58815
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 02:00:16 2020 -0400
+
+    Merge branch 'carac2r1' into develop
+
+commit 2d58815858ca1695ba8f0d3cad11e9f463474528
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 01:58:53 2020 -0400
+
+    caracteristica 2 - R 1
+
+commit 44b1ceecfb3d4e9235cb684fca9823c1c8555b3f
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 01:42:51 2020 -0400
+
+    caracteristica 1 - R 1
+
+commit 9a613e1ef8be6ea7e2426a7009ab4e448368e7d7
+Author: Jessica <jessica.jasiel@gmail.com>
+Date:   Sat May 2 01:31:28 2020 -0400
+
+    Empezamos a desarrollar anvorguesa
+
+commit 6ca4d1b87356e5db13bf7e69cadee175ac461bce
+Author: Jasiel Renteria <55211389+Jasiel17@users.noreply.github.com>
+Date:   Fri May 1 23:35:40 2020 -0400
+
+    Initial commit
