@@ -1,2 +1,5 @@
 Se soluciono el FIXED de la caracteristica 5 del release 2
 Aun asi no se completaron las caracteristicas para terminar release 2
+Habian cierres inesperados, se debia a una rama mal nombrada ,a Caracteristica 8 del release 2
+Corregimos todos los errores.
+2:30 de jueves ,conclusion del release 2 .
